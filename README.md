@@ -13,4 +13,4 @@ $(".x11e tbody tr").each(function(index,item){
 	name:$(item).find("td").eq(2).text()
 })
 })
-console.log(truong)```
+console.log(truong)
